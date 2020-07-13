@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    // font-family: $family-primary;
+}
+
+body {
+    h1, li {
+        font-weight: 600;
+    }
+    p {
+        font-weight: 600;
+    }
+    a {
+        text-decoration: none;
+    }
+
+    .ja {
+        font-family: $family-japanese;
+    }
+}
+
+.page-enter-active, .page-leave-active {
+    transition: opacity 0.3s
+  }
+  .page-enter, .page-leave-active {
+    opacity: 0
+  }
+

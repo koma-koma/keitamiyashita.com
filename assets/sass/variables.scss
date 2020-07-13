@@ -1,0 +1,16 @@
+@import '~bulma/sass/utilities/_all';
+
+// ここで変数をカスタマイズ
+$text: $black;
+$link: $white;
+
+$modal-background-background-color: default;
+
+$family-primary: sweet-sans-pro, $family-sans-serif;
+$family-japanese: $family-sans-serif;
+// $family-japanese: dnp-shuei-gothic-kin-std, $family-sans-serif;
+
+$link: $text;
+$link-hover: $grey;
+
+$column-gap: 1.25rem;
