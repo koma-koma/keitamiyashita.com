@@ -3,13 +3,14 @@
     img(src="~assets/image/profile.jpg")
 
     h1 #[span.ja 宮下 恵太] / KEITA miyashita
-    p sound artist / guitarist / designer / engineer
+    p sound artist / designer / engineer / guitarist
     p.ja
       | 1995年生まれ。北海道出身。東京在住。
       // br
       // | 大学ではデザインやメディアアートを学び、通信技術とサウンドアートに関する研究を行う。
-      // br
-      // | プログラミングやハードウェアなどの一般化したテクノロジーを手段として技術、音、物を主題とした作品の制作を行っている。
+      br
+      | プログラミングやWEB、エレクトロニクスなどの現代社会に根ざしたテクノロジーを手段とし、作品の制作を行う。
+      // | プログラミングやエレクトロニクスなどの一般化したテクノロジーを手段として技術、音、物を主題とした作品の制作を行っている。
       // br
       // | 
 

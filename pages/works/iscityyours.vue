@@ -13,7 +13,7 @@
         | This sound installation aimed to aurally and visually recompose the city with citizens. As a part of a workshop series “Cityours”, we conducted fieldworks and field recordings for gathering urban materials(environmental sounds and photographs) at Shibaura, Tokyo. Then, Kenta Tanaka conducted “Urban Composition” by recomposing the urban materials of Shibaura with the workshop participants. His question is how would we re-experience the image of the city by means of participatory processes.
         
       p.caption.ja
-        | ( #[a(href="https://kentatanaka.cargo.site/Is-the-City-Ours") https://kentatanaka.cargo.site/Is-the-City-Ours] より引用 )
+        | ( #[a(href="https://kentatanaka.cargo.site/Is-the-City-Ours") Kenta Tanaka | Urban Composition#01 - Is the City Ours?] より引用 )
 
     img(src="~assets/image/works/iscityyours/01.jpg")
     img(src="~assets/image/works/iscityyours/02.jpg")

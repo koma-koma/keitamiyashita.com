@@ -7,7 +7,6 @@
             div.column
                 p
                     | #[span(v-for="tag in work.tags").tag {{ tag }}]
-            
         h1._title {{ work.title }}
 </template>
 

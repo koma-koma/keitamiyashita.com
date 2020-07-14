@@ -4,7 +4,7 @@
 
     p.ja
       | ハードウェア設計、データビジュアライズ、サウンドデザインを担当。
-      | MashupAward2017にて学生部門賞受賞。
+      | #[a(href="https://ma2017.we-are-ma.jp/winninglist-2017/") MashupAward2017]にて学生部門賞受賞。
 
     div.image.is-16by9
       iframe(width="1120" height="630" src="https://www.youtube.com/embed/WpTlVXNGO-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen).has-ratio

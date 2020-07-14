@@ -80,11 +80,11 @@ export default {
                 {
                     name: 'interaction',
                     works: [
-                        // {
-                        //     title: 'Kenta Tanaka - Is City Yours?',
-                        //     path: '/iscityyours',
-                        //     img: '',
-                        // },
+                        {
+                            title: 'Kenta Tanaka - Is City Yours?',
+                            path: '/iscityyours',
+                            img: '',
+                        },
                         {
                             title: 'Yaba Coin System',
                             path: '/yabacoinsystem',
@@ -105,11 +105,11 @@ export default {
                             path: '/ka',
                             img: '',
                         },
-                        // {
-                        //     title: 'Joseph Gen - 15-04',
-                        //     path: '/15-04',
-                        //     img: '',
-                        // },
+                        {
+                            title: 'Joseph Gen - 15-04',
+                            path: '/15-04',
+                            img: '',
+                        },
                         {
                             title: 'Poster Design - Simplex Noise',
                             path: '/simplexnoise',
@@ -142,16 +142,16 @@ export default {
                 //         },
                 //     ],
                 // },
-                // {
-                //     name: 'music',
-                //     works: [
-                //         {
-                //             title: 'Keniji Iwanaga - SHIROATO',
-                //             path: '/shiroato',
-                //             img: '',
-                //         },
-                //     ],
-                // },
+                {
+                    name: 'music',
+                    works: [
+                        {
+                            title: 'SHIROATO',
+                            path: '/shiroato',
+                            img: '',
+                        },
+                    ],
+                },
             ],
         };
     },

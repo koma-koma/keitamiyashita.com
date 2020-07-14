@@ -3,10 +3,9 @@
     <WorkHeader :work="work" />
 
     p.ja
-      // | 煩わしいセミの鳴き声を
+      | 煩わしい夏のセミの鳴き声をエキサイティングにするデバイス。捕まえたセミの鳴き声をリアルタイムでサンプリングし演奏を行う。機体には捕えたセミを入れることができ、音楽に合わせ鮮やかなライトがパフォーマーのようにセミを照らす。
       | ハードウェア設計、サウンドプログラミング、サウンドデザイン、ロゴデザインを担当。
-      br
-      | HACK U TOKYO 2017にて最優秀賞、ハッピーハッキング賞を受賞。第23回学生CGコンテストノミネート作品。
+      | #[a(href="https://hacku.yahoo.co.jp/hacku2017tokyo/") HACK U TOKYO 2017]にて最優秀賞、ハッピーハッキング賞を受賞。#[a(href="https://campusgenius.jp/2017/") 第23回学生CGコンテスト]ノミネート作品。
 
     p.caption
       | wood, ipad, cicada, microphone, raspberry pi, fullcollor LED
@@ -19,7 +18,7 @@
     img(src="~assets/image/works/minminbeatbox/03.png")
     img(src="~assets/image/works/minminbeatbox/04.jpg")
     p.caption.ja
-      | HACK U TOKYO 2017での展示の様子
+      | ▲HACK U TOKYO 2017での展示の様子
 
 </template>
 

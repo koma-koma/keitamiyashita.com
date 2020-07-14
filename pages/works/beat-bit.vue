@@ -18,7 +18,7 @@
     img(src="~assets/image/works/beat-bit/b_02.png")
 
     // h2 1.XXX
-    // p
+    p
     //   | 文章
     //   | 文章
     //   | 文章
@@ -28,7 +28,7 @@
     img(src="~assets/image/works/beat-bit/e_01.jpg")
     img(src="~assets/image/works/beat-bit/e_02.jpg")
     p.ja.caption
-      | 2020年2月8~10日に開催された首都大学東京インダストリアルアート学科卒業・修了制作展での展示の様子
+      | ▲2020年2月8~10日に開催された首都大学東京インダストリアルアート学科卒業・修了制作展での展示の様子
 
     img(src="~assets/image/works/beat-bit/v_00.png")
     img(src="~assets/image/works/beat-bit/v_01.png")
