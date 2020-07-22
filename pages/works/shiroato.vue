@@ -11,6 +11,8 @@
     img(src="~assets/image/works/shiroato/03.jpg")
     img(src="~assets/image/works/shiroato/04.jpg")
     img(src="~assets/image/works/shiroato/05.jpg")
+    div.image.is-16by9
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/nGmFnwcdE9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen).has-ratio
     p.caption
       | Credit:
       br

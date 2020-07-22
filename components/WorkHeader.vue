@@ -26,6 +26,7 @@ export default {
 @import '~assets/sass/variables';
 
 .workheader {
+    margin-top: 18px;
     margin-bottom: 20px;
     ._title {
         font-size: 1rem;

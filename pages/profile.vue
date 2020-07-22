@@ -21,6 +21,7 @@
 
     ul.ja
       li - 電子工作 / 基板設計(Eagle) / Arduino / Raspberry Pi
+      li - 3D Printing / 3D CAD (Fusion360)
       li - openFrameworks / Processing / GLSL
       li - HTML / CSS / javascript / Nuxt.js(静的ページ構築)
       li - Python / Django / Flask
