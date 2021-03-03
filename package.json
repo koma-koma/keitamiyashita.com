@@ -16,7 +16,7 @@
     "bulma-modal-fx": "^1.1.1",
     "nuxt": "^2.12.2",
     "nuxt-fontawesome": "^0.4.0",
-    "pug": "^3.0.0",
+    "pug": "^3.0.1",
     "pug-loader": "^2.4.0",
     "pug-plain-loader": "^1.0.0",
     "vue-scroll-reveal": "^1.0.11",
